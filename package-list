@@ -1,0 +1,9 @@
+com.backblaze.b2.client
+com.backblaze.b2.client.contentHandlers
+com.backblaze.b2.client.contentSources
+com.backblaze.b2.client.credentialsSources
+com.backblaze.b2.client.exceptions
+com.backblaze.b2.client.structures
+com.backblaze.b2.client.webApiClients
+com.backblaze.b2.json
+com.backblaze.b2.util
