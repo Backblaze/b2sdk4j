@@ -1,0 +1,3 @@
+include ':http_client'
+include ':app'
+rootProject.name = "B2WebApiHttpClientAndroid"
